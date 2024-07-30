@@ -1,0 +1,11 @@
+body {
+    display: grid;
+    place-content: center;
+    height: 100vh;
+}
+
+canvas {
+    border: 1px solid black;
+    background: url('./Spaceship-shooter-gamekit/Desert/backgrounds/desert-backgorund.png') no-repeat;
+    background-size: 100% 100%;
+}
